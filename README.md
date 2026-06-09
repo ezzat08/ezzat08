@@ -1,309 +1,107 @@
-# Hi, I'm Ezzat Nuruddin 👋
+# 👋 Hi, I'm Ezzat
 
-### Computer Science Student | Software Developer | IoT Enthusiast
+### Computer Science Student
 
-I enjoy building systems that solve real-world problems through software, automation, and technology.
+Building software systems, automation tools, and IoT solutions.
 
-My interests span across:
-
-💻 Software Engineering  
-🌐 Backend Development  
-☁️ DevOps & Cloud Technologies  
-📡 Internet of Things (IoT)  
-🔐 Cybersecurity  
-
-I believe that software should not only work, but be maintainable, scalable, and meaningful.
+Focused on creating practical applications that solve real-world problems.
 
 ---
 
-## About Me
+## 🔗 Connect with Me
 
-🎓 Bachelor of Computer Science
-
-📍 Malaysia
-
-🔍 Currently seeking internship opportunities in:
-
-- Software Development
-- Backend Engineering
-- DevOps Engineering
-- IoT Engineering
-- Cybersecurity
+[LinkedIn](YOUR_LINKEDIN)
 
 ---
 
-## Current Focus
-
-I'm currently improving my skills in:
-
-- Backend architecture
-- API development
-- Database optimization
-- Linux administration
-- Docker containerization
-- Secure software development
-- IoT system integration
-
----
-
-## Engineering Philosophy
-
-I enjoy building complete systems rather than isolated pieces of code.
-
-A good project should demonstrate:
-
-✔ Problem Solving
-
-✔ System Design
-
-✔ Documentation
-
-✔ Maintainability
-
-✔ Security
-
-✔ Scalability
-
----
-
-## Technical Skills
+# 💻 Tech Stack
 
 ### Programming Languages
 
-- Java
-- Python
-- C++
-- JavaScript
-- SQL
+`Java` `Python` `C++`
 
-### Backend Development
+### Web Development
 
-- Spring Boot
-- REST API Development
-- Node.js
+`HTML` `CSS` `JavaScript`
 
-### Database Systems
+### Backend & Database
 
-- MySQL
-- PostgreSQL
-- SQLite
+`Spring Boot` `MySQL` `PostgreSQL`
 
-### DevOps & Tools
+### Tools & Platforms
 
-- Git
-- GitHub
-- Docker
-- Linux
-- Bash
+`Git` `Linux` `Docker` `VS Code`
 
-### Cybersecurity
+### IoT & Hardware
 
-- Network Analysis
-- Security Monitoring
-- Vulnerability Assessment
-- Log Analysis
-
-### IoT
-
-- ESP32
-- Arduino
-- MQTT
-- Sensor Integration
+`ESP32` `Arduino` `MQTT`
 
 ---
 
-# Featured Projects
+# 🚀 Projects
+
+## 💻 Software Development
+
+### Student Management System
+
+A full-stack web application for managing student records, attendance, and academic information.
+
+### Inventory Management System
+
+A stock and inventory tracking system with authentication and reporting features.
 
 ---
 
-## Smart Campus IoT Platform
+## 📡 IoT Systems
 
-A complete smart campus monitoring system designed to integrate IoT devices with a centralized web dashboard.
+### Smart Campus Monitoring
 
-### Features
+IoT-based monitoring platform using sensors and real-time dashboards.
 
-- Real-time sensor monitoring
-- Classroom environment tracking
-- Alert notifications
-- Historical analytics
-- Role-based dashboard
+### Smart Plant Monitoring
 
-### Technologies
-
-ESP32 • MQTT • Spring Boot • MySQL • Docker
-
-### Engineering Highlights
-
-- Designed scalable communication architecture
-- Implemented real-time data processing
-- Developed backend APIs
-- Created database schema for sensor data
+Environmental monitoring system with automated alerts and sensor analytics.
 
 ---
 
-## Inventory Management System
+## 🔐 Cybersecurity
 
-A web-based inventory management platform for tracking products and stock movements.
+### Security Log Analyzer
 
-### Features
+Tool for analyzing security logs and detecting suspicious activities.
 
-- Product management
-- Inventory tracking
-- User authentication
-- Reporting dashboard
+### Network Traffic Monitor
 
-### Technologies
-
-Java • Spring Boot • MySQL
-
-### Engineering Highlights
-
-- Object-Oriented Design
-- Database normalization
-- REST API architecture
+Network packet analysis and monitoring application.
 
 ---
 
-## Network Traffic Analyzer
+## ⚙️ DevOps & Infrastructure
 
-A network monitoring tool for analyzing traffic patterns and identifying suspicious activities.
+### Dockerized Web Application
 
-### Features
+Containerized application deployment using Docker and Linux.
 
-- Packet inspection
-- Traffic visualization
-- Log generation
-- Security alerts
+### CI/CD Learning Lab
 
-### Technologies
-
-Python • Scapy • Wireshark
-
-### Engineering Highlights
-
-- Packet processing
-- Security-focused analysis
-- Data visualization
+Experiments with automated testing and deployment pipelines.
 
 ---
 
-## Dockerized Web Application
+# 🎯 Current Focus
 
-A full-stack application deployed using Docker containers.
-
-### Features
-
-- Containerized backend
-- Database integration
-- Deployment automation
-
-### Technologies
-
-Docker • Linux • MySQL
-
-### Engineering Highlights
-
-- Container orchestration
-- Environment configuration
-- Deployment workflows
+- Building full-stack applications
+- Learning DevOps and cloud technologies
+- Exploring cybersecurity fundamentals
+- Developing IoT systems
+- Improving software architecture skills
 
 ---
 
-## Security Log Analyzer
+# 📈 Goals for 2026
 
-A cybersecurity project that processes and analyzes security logs to detect suspicious activities.
-
-### Features
-
-- Log parsing
-- Pattern detection
-- Event categorization
-- Reporting
-
-### Technologies
-
-Python • Linux
-
-### Engineering Highlights
-
-- Data analysis
-- Security event monitoring
-- Threat detection logic
-
----
-
-## University Team Projects
-
-A collection of academic and collaborative software projects developed with teammates.
-
-### Focus Areas
-
-- Agile Development
-- Team Collaboration
-- Documentation
-- Software Testing
-
----
-
-# Project Development Workflow
-
-Idea
- ↓
-Research
- ↓
-System Design
- ↓
-Implementation
- ↓
-Testing
- ↓
-Documentation
- ↓
-Deployment
- ↓
-Continuous Improvement
-
----
-
-# What You'll Find Here
-
-This GitHub serves as a record of my learning journey and engineering growth.
-
-You'll find:
-
-- Software Development Projects
-- IoT Systems
-- Cybersecurity Experiments
-- University Projects
-- Technical Documentation
-- Learning Repositories
-
----
-
-# Future Goals
-
-## 2026 Goals
-
-- Deploy production-ready applications
-- Build a complete IoT ecosystem
-- Learn Kubernetes
-- Improve cloud computing skills
-- Contribute to open source projects
-- Strengthen cybersecurity expertise
-
----
-
-# Let's Connect
-
-LinkedIn:
-[Your LinkedIn]
-
-Email:
-[your.email@example.com]
-
-Portfolio:
-[Optional Portfolio Website]
-
----
-
-"Building solutions one commit at a time."
+- Complete a production-ready full-stack project
+- Deploy applications to cloud platforms
+- Learn Kubernetes fundamentals
+- Contribute to open-source projects
+- Strengthen backend development expertise
