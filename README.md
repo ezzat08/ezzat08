@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Ezzat 👋
+
+Computer Science student interested in:
+
+- Software Development
+- DevOps
+- IoT Systems
+- Cybersecurity
+
+## Tech Stack
+
+Languages:
+Java, Python, C++, JavaScript
+
+Tools:
+Git, Linux, Docker, MySQL
+
+## Featured Projects
+
+- Smart IoT Monitoring System
+- Student Management System
+- Network Security Scanner
+- Full Stack Web Application
+
+## Contact
+
+LinkedIn:
+Email:
