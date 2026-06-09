@@ -3,7 +3,7 @@
 - Computer Science Student
 - Building software systems, web applications, and IoT solutions
 - Passionate about solving real-world problems through technology
-- Interested in Software Engineering, DevOps, IoT, and Cybersecurity
+- Interested in Software Engineering, DevOps, IoT, and Smart Device
 
 ---
 
@@ -75,17 +75,3 @@
 - IoT Integration and Automation
 
 ---
-
-## 📚 Currently Learning
-
-- RESTful API Design
-- CI/CD Pipelines
-- Cloud Technologies
-- Network Security
-- Database Optimization
-
----
-
-## 💡 Philosophy
-
-> "Build systems that solve real problems."
