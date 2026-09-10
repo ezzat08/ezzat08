@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/ahmad-ezzat-nuruddin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://aezy.my" target="_blank">
+  <img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 </p>
 
 ---
